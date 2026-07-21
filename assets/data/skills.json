@@ -1,10 +1,48 @@
 [
-    "HTML",
-    "CSS",
+ {
+  "category":"Frontend",
+  "skills":[
+    "HTML5",
+    "CSS3",
     "JavaScript",
+    "React"
+  ]
+ },
+
+ {
+  "category":"Mobile",
+  "skills":[
+    "Flutter",
+    "Android",
+    "Firebase"
+  ]
+ },
+
+ {
+  "category":"Backend",
+  "skills":[
+    "Node.js",
+    "Supabase",
+    "API REST"
+  ]
+ },
+
+ {
+  "category":"Artificial Intelligence",
+  "skills":[
+    "Claude AI",
+    "OpenAI",
+    "Prompt Engineering",
+    "Azure AI"
+  ]
+ },
+
+ {
+  "category":"Tools",
+  "skills":[
     "Git",
     "GitHub",
-    "Claude AI",
-    "Microsoft AI",
-    "Firebase"
+    "VS Code"
+  ]
+ }
 ]
