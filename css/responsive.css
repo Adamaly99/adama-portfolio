@@ -1,0 +1,52 @@
+@media(max-width:768px){
+
+
+.navbar {
+
+padding:20px;
+
+}
+
+
+
+.nav-links {
+
+display:none;
+
+}
+
+
+
+h1 {
+
+font-size:2.5rem;
+
+}
+
+
+
+h2 {
+
+font-size:2rem;
+
+}
+
+
+
+section {
+
+padding:70px 20px;
+
+}
+
+
+
+.buttons {
+
+flex-direction:column;
+
+}
+
+
+
+}
