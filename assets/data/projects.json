@@ -1,12 +1,14 @@
 [
-    {
-        "name": "FocusAI Student",
-        "description": "Application intelligente destinée aux étudiants.",
-        "technologies": [
-            "IA",
-            "Mobile",
-            "Firebase"
-        ],
-        "github": "#"
-    }
+ {
+  "name":"FocusAI Student",
+  "image":"assets/images/projects/focusai.png",
+  "description":"Application intelligente destinée aux étudiants.",
+  "technologies":[
+    "Flutter",
+    "Firebase",
+    "AI"
+  ],
+  "github":"https://github.com/Adamaly99/FocusAi-Student",
+  "demo":""
+ }
 ]
