@@ -1,0 +1,12 @@
+[
+    {
+        "name": "FocusAI Student",
+        "description": "Application intelligente destinée aux étudiants.",
+        "technologies": [
+            "IA",
+            "Mobile",
+            "Firebase"
+        ],
+        "github": "#"
+    }
+]
