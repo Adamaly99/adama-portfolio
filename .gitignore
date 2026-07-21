@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+
+# Node
+node_modules/
+
+# Environment
+.env
